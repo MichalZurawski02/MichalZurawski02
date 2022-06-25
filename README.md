@@ -21,4 +21,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :man_technologist: About Me :
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/B6IBrYTyvo1UJOXF9u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/code-coding-xray-B6IBrYTyvo1UJOXF9u">via GIPHY</a></p>
+My name is Michal and I am entry-level Java Developer.
+- :eyes: I am interested in programming and chess!
+- :seedling: Currently I am learning PostgreSQL and design patterns.
+- :school: I am student of Computer Science at University of Science and Technology in Wroclaw
+- :mailbox: zurawski.mic@gmail.com
