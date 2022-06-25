@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="500" height="500"/>
   
 </div>
 
