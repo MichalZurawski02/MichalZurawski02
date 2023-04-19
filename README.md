@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :school: I am student of Computer Science at University of Science and Technology in Wroclaw
+- :school: Computer Science at University of Science and Technology in Wroclaw
 - :mailbox: zurawski.mic@gmail.com
 
 ---
